@@ -38,6 +38,7 @@ data/raw/
 data/interim/
 data/processed/
 data/external/
+Exercise 2/data
 
 # Resultados pesados
 outputs/
