@@ -38,7 +38,7 @@ data/raw/
 data/interim/
 data/processed/
 data/external/
-Introduction - Week 1/Exercise 2/data/
+Introduction - Week 1/Exercise 2/data/*
 
 # Resultados pesados
 outputs/
